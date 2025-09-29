@@ -1,4 +1,4 @@
-Bank of Java 💰
+Simple Bank Account Simulation program
 
 A simple Bank Account Simulation program written in Java.
 This console-based application allows users to check their balance, deposit money, withdraw money, and exit.
@@ -70,28 +70,5 @@ $100.0 has been deposited to your account.
 Your current balance is $100.0
 
 
----
 
-Requirements 📦
-
-Java 8 or higher
-
-Any IDE (IntelliJ, Eclipse, VS Code) or terminal with javac
-
-
-
----
-
-How to Run ▶️
-
-1. Save the code as Bank.java
-
-
-2. Open terminal in the file location and run:
-
-javac Bank.java
-java Bank
-
-
-3. Use the menu to interact with your bank account.
 
